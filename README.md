@@ -34,12 +34,10 @@ pygame
 Usage
 Install dependencies using requirements.txt.
 
-Organize the dataset into the specified directory structure.
+
 
 Execute the provided Python script for real-time video capture, training, and evaluation.
 
 Adjust hyperparameters and model architecture as needed.
 
-Acknowledgments
-This project is inspired by the need for intelligent systems to enhance driver safety and prevent accidents caused by drowsiness. The addition of real-time video capture enhances the practicality of the system for real-world applications. The project serves as a foundation for further exploration and improvement in the field of computer vision and driver assistance systems.
 
